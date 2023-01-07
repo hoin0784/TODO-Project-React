@@ -1,8 +1,6 @@
 ## My TODO Project (with React)
     In this project, I made a TODO List using React, one of the Javascript libraries.
-       
-    command: yarn start
-    
+      
     < Runs the app in the development mode >
       - terminal command : yarn start
     
