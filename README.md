@@ -1,11 +1,14 @@
 ## My TODO Project (with React)
     In this project, I made a TODO List using React, one of the Javascript libraries.
-
+       
+    command: yarn start
+    
     < Runs the app in the development mode >
       - terminal command : yarn start
     
     < Deploy link >
-
+      - https://mytodolist0784.netlify.app/
+      
     < My TODO Feautres >
       1. All, Active, and Completed filters.
       2. Data is saved, even if the page is refreshed.
